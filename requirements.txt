@@ -1,0 +1,9 @@
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+requests
+pandas
+sqlalchemy
+pyodbc
+python-dotenv
+beautifulsoup4
